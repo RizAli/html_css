@@ -1,6 +1,4 @@
 # html_css
-
-### Features 
 ------------
 
 This project demonstrate the use of responsive css pages.
